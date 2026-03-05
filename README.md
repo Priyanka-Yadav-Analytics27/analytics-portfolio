@@ -49,9 +49,7 @@ SQL | Tableau | Data Visualization
 
 [View Full Project](Film_Rental_SQL_Tableau_Analytics.pdf)
 
-
-----
-
+<br>
 
 ## 2. Real Estate Market Selection & Investment Optimization
 
@@ -71,9 +69,7 @@ New Hope emerged as the strongest investment opportunity due to its higher proje
 
 [View Full Project](Real_Estate_Market_Selection_and_Investment_Optimization.pdf)
 
-
----
-
+<br>
 
 ## 3. Construction Cost Operations Analytics
 
@@ -93,9 +89,7 @@ A small number of material categories showed significant price swings, highlight
 
 [View Full Project](Construction_Cost_Operations_Analytics.pdf)
 
-
----
-
+<br>
 
 ## 4. AI Marketing Campaign Optimization Strategy
 
@@ -115,9 +109,7 @@ An automated system that analyzes campaign data in real time can significantly i
 
 [View Full Project](AI_Marketing_Campaign_Optimization_Strategy.pdf)
 
-
----
-
+<br>
 
 ## 5. EcoGrantGenie – AI Grant Writing Assistant
 
@@ -137,4 +129,5 @@ Automating parts of the grant-writing process can dramatically reduce preparatio
 
 [View Full Project](EcoGrantGenie_AI_Grant_Writing_Assistant.pdf)
 
----
+<br>
+
