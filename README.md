@@ -32,7 +32,7 @@ JOIN payment p ON r.rental_id = p.rental_id
 GROUP BY c.customer_id, customer_name
 ORDER BY total_spent DESC
 LIMIT 10;
-
+```
 ### Insight Generated
 This analysis helped identify the highest value customers based on their rental activity and total spending.
 The results show that a small group of repeat customers generated a significant share of total revenue.
