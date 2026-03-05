@@ -31,12 +31,19 @@ I’m currently pursuing roles in Business Analytics and Marketing Analytics.
 
 ## Tools & Technologies
 
-![SQL](https://img.shields.io/badge/SQL%20Querying-E8DFF5)
-![Python](https://img.shields.io/badge/Python%20Analytics-D6EADF)
-![Tableau](https://img.shields.io/badge/Tableau%20Dashboards-FFE5B4)
-![Excel](https://img.shields.io/badge/Excel%20Modeling-CDE7BE)
-![Marketing Analytics](https://img.shields.io/badge/Marketing%20Analytics-FFD6E0)
-![Data Visualization](https://img.shields.io/badge/Data%20Visualization-D6E6FF)
+**Languages**
+![SQL](https://img.shields.io/badge/SQL-E6D9FF?style=for-the-badge&logo=postgresql&logoColor=black)
+![Python](https://img.shields.io/badge/Python-D6F5E3?style=for-the-badge&logo=python&logoColor=black)
+
+**Visualization**
+![Tableau](https://img.shields.io/badge/Tableau-FFE3C8?style=for-the-badge&logo=tableau&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-DFF5E1?style=for-the-badge&logo=microsoft-excel&logoColor=black)
+
+**Analytics**
+![Marketing Analytics](https://img.shields.io/badge/Marketing%20Analytics-FFD6E8?style=for-the-badge&logo=googleanalytics&logoColor=black)
+![Business Analytics](https://img.shields.io/badge/Business%20Analytics-D6E8FF?style=for-the-badge&logo=databricks&logoColor=black)
+![Data Visualization](https://img.shields.io/badge/Data%20Visualization-FFF0B3?style=for-the-badge&logo=chartdotjs&logoColor=black)
+![Data Analysis](https://img.shields.io/badge/Data%20Analysis-E3D7FF?style=for-the-badge&logo=databricks&logoColor=black)
 
 ---
 
