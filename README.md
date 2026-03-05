@@ -8,7 +8,7 @@ This repository contains selected analytics projects demonstrating experience in
 
 ## Projects
 
-### 1. Film Rental SQL + Tableau Analytics
+## 1. Film Rental SQL + Tableau Analytics
 
 ### Problem
 A film rental company wanted to understand customer rental behavior, revenue trends, and the performance of different film categories across locations.
@@ -50,7 +50,7 @@ SQL | Tableau | Data Visualization
 [View Full Project](Film_Rental_SQL_Tableau_Analytics.pdf)
 
 
-### 2. Real Estate Market Selection & Investment Optimization
+## 2. Real Estate Market Selection & Investment Optimization
 
 ### Problem
 An investment firm wanted to determine which city offered the best opportunity for a new real estate development project.
@@ -68,7 +68,7 @@ New Hope emerged as the strongest investment opportunity due to its higher proje
 
 [View Full Project](Real_Estate_Market_Selection_and_Investment_Optimization.pdf)
 
-### 3. Construction Cost Operations Analytics
+## 3. Construction Cost Operations Analytics
 
 ### Problem
 Construction material prices can fluctuate significantly, creating cost risks for large projects.
@@ -86,7 +86,7 @@ A small number of material categories showed significant price swings, highlight
 
 [View Full Project](Construction_Cost_Operations_Analytics.pdf)
 
-### 4. AI Marketing Campaign Optimization Strategy
+## 4. AI Marketing Campaign Optimization Strategy
 
 ### Problem
 Marketing teams often struggle to quickly identify which campaigns are performing well and how to adjust strategies in real time.
@@ -104,7 +104,7 @@ An automated system that analyzes campaign data in real time can significantly i
 
 [View Full Project](AI_Marketing_Campaign_Optimization_Strategy.pdf)
 
-### 5. EcoGrantGenie – AI Grant Writing Assistant
+## 5. EcoGrantGenie – AI Grant Writing Assistant
 
 ### Problem
 Nonprofit organizations spend significant time writing grant proposals, often with limited resources and tight deadlines.
