@@ -66,7 +66,7 @@ Financial Modeling | Market Analysis | Python | Excel
 ### Key Insight
 New Hope emerged as the strongest investment opportunity due to its higher projected NOI and stronger long-term equity growth.
 
-![Market Performance](real_estate_market_performance.png)
+![Market Performance](real_estate_analysis.png)
 
 [View Full Project](Real_Estate_Market_Selection_and_Investment_Optimization.pdf)
 
@@ -87,7 +87,7 @@ Operations Analytics | Cost Analysis
 ### Key Insight
 A small number of material categories showed significant price swings, highlighting opportunities for better procurement strategies.
 
-![Construction Analytics](construction_price_volatility.png)
+![Construction Analytics](construction_analytics.png)
 
 [View Full Project](Construction_Cost_Operations_Analytics.pdf)
 
@@ -129,7 +129,7 @@ AI Product Design | NLP | LLM Prompt Engineering
 ### Key Insight
 Automating parts of the grant-writing process can dramatically reduce preparation time while helping organizations focus on refining strategy and storytelling.
 
-![EcoGrantGenie](ecograntgenie_time_saved.png)
+![EcoGrantGenie](ecograntgenie_ai.png)
 
 [View Full Project](EcoGrantGenie_AI_Grant_Writing_Assistant.pdf)
 
