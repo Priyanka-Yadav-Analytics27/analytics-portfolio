@@ -91,7 +91,7 @@ SQL | Tableau | Data Visualization
 
 ---
 
-🏙 **<h1>Real Estate Market Selection & Investment Optimization<h1>**
+**<h1>Real Estate Market Selection & Investment Optimization<h1>**
 
 ### Problem
 An investment firm wanted to determine which city offered the best opportunity for a new real estate development project.
@@ -111,7 +111,7 @@ New Hope emerged as the strongest investment opportunity due to its higher proje
 
 ---
 
-🏗 **<h1>Construction Cost Operations Analytics<h1>**
+**<h1>Construction Cost Operations Analytics<h1>**
 
 ### Problem
 Construction material prices can fluctuate significantly, creating cost risks for large projects.
@@ -131,7 +131,7 @@ A small number of material categories showed significant price swings, highlight
 
 ---
 
-🤖⚡**<h1>AI Marketing Campaign Optimization Strategy<h1>**
+**<h1>AI Marketing Campaign Optimization Strategy<h1>**
 
 ### Problem
 Marketing teams often struggle to quickly identify which campaigns are performing well and how to adjust strategies in real time.
@@ -151,7 +151,7 @@ An automated system that analyzes campaign data in real time can significantly i
 
 ---
 
-🌱 **<h1>EcoGrantGenie – AI Grant Writing Assistant<h1>**
+**<h1>EcoGrantGenie – AI Grant Writing Assistant<h1>**
 
 ### Problem
 Nonprofit organizations spend significant time writing grant proposals, often with limited resources and tight deadlines.
